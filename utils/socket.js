@@ -1,5 +1,5 @@
 const { Server } = require("socket.io");
-const ADMIN_EMAIL = "rk370613@gmail.com";
+const ADMIN_EMAIL = "admin@gmail.com";
 
 // Data structures
 let users = {};
